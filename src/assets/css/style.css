@@ -1,0 +1,41 @@
+.navbar {
+  background: #fff;
+  padding: 0 20px;
+}
+
+.nav-item {
+  color: #fff;
+}
+
+.quem-somos {
+  background: #8181f7;
+  color: #fff;
+  margin-bottom: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.quem-somos-image {
+  border-radius: 50%;
+  height: 200px;
+  margin: 20px 0;
+  width: 200px;
+}
+
+.parceiros-image {
+  border-radius: 50%;
+  height: 200px;
+  margin: 20px 0;
+  width: 200px;
+}
+
+.servicos-image {
+  margin: 20px 0;
+  width: 100%;
+}
+
+.bg-footer {
+  background: #000;
+  color: #fff;
+  padding: 20px;
+}
